@@ -35,6 +35,9 @@
   margin: 0;
 }
 
+.modal-content{
+  border-radius: 0px;
+}
 @media(max-width: 767px){
   .perfil {
     color:#ffffff;
