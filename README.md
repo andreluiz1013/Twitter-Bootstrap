@@ -1,2 +1,5 @@
-# Twitter-Bootstrap
-Projeto de treino com Framework Css Twitter Bootstrap
+# Development Front-end 
+
+## Responsive Layout With Twitter Bootstrap
+
+Layout responsive desenvolvido para agilizar o processo de trabalho com tabelas, cabeçalhos, pesquisa, login e conta.
