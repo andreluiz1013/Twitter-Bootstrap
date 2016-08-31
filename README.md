@@ -2,4 +2,4 @@
 
 ## Responsive Layout With Twitter Bootstrap
 
-Layout responsive desenvolvido para agilizar o processo de trabalho com tabelas, cabeçalhos, pesquisa, login e conta.
+Responsive layout designed to streamline the process of working with tables, headers, search, login and account.
